@@ -1,0 +1,146 @@
+
+
+body {
+			background-color: black;
+}
+
+.tl
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  padding: 50px;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  border-radius: 100px;
+  background-color: red;
+  margin: 20px;
+  box-shadow: 0 0 5px red,
+              0 0 25px red,
+              0 0 50px red,
+              0 0 200px red;
+  border-style: groove;
+  border-color: red;
+}
+
+	.tr
+  {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    border-radius: 100px;
+    background-color: blue;
+    margin: 20px;
+    box-shadow: 0 0 5px blue,
+                0 0 25px blue,
+                0 0 50px blue,
+                0 0 200px blue;
+    border-style: groove;
+    border-color: blue;
+  }
+ .bl
+ {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 100px;
+   height: 100px;
+   padding: 50px;
+   font-size: 24px;
+   color: white;
+   text-align: center;
+   border-radius: 100px;
+   background-color: green;
+   margin: 20px;
+   box-shadow: 0 0 5px green,
+               0 0 25px green,
+               0 0 50px green,
+               0 0 200px green;
+  border-style: groove;
+  border-color: green;
+ }
+
+.br
+{
+  position: absolute;
+	bottom: 0;
+	right: 0;
+  width: 100px;
+  height: 100px;
+  padding: 50px;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  border-radius: 100px;
+  background-color: purple;
+  margin: 20px;
+  box-shadow: 0 0 5px purple,
+              0 0 25px purple,
+              0 0 50px purple,
+              0 0 200px purple;
+  border-style: groove;
+  border-color: purple;
+}
+
+		.c
+    {
+      position: absolute;
+			top: 50%;
+			left: 50%;
+      transform: translate(-50%, -50%);
+      width: 100px;
+			height: 100px;
+			padding: 50px;
+			margin: 20px;
+			font-size: 24px;
+			color: white;
+			text-align: center;
+			border-radius: 150px;
+      background-color: orange;
+      box-shadow: 0 0 5px orange,
+                  0 0 25px orange,
+                  0 0 50px orange,
+                  0 0 200px orange;
+      border-style: groove;
+      border-color: orange;
+    }
+
+
+    .cc{
+      position: absolute;
+      top: 50%;
+      left:50%;
+      transform: translate(-50%, -50%);
+    }
+   .ct{
+     text-align: center;
+     width: 300px;
+     height: 20px;
+     padding: 40px;
+     color: Black;
+     position: absolute;
+     top: 50px;
+     left:50%;
+     transform: translate(-50%, -50%);
+     font-size: 23px;
+     letter-spacing: 5px;
+     background-color: white;
+     box-shadow: 0 0 5px white,
+                 0 0 25px white,
+                 0 0 50px white,
+                 0 0 200px white;
+    border-style: groove;
+    border-color: white;
+    margin-top: 30px;
+    border-radius: 100px;
+
+   }
